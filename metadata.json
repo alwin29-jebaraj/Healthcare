@@ -1,0 +1,6 @@
+{
+  "name": "AI Smart Healthcare",
+  "description": "An AI-powered smart healthcare management system with distinct Patient, Doctor, and Admin portals, medical report analysis, symptom checking, and a clinical AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
